@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/Hen-Ryu">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hen-Ryu&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hen-Ryu&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Hen-Ryu&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hen-Ryu&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
